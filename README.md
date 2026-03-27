@@ -22,13 +22,7 @@ This is a simple and efficient To-Do application built using Flutter. The app he
 
 ---
 
-## 4. Keyboard Shortcuts
-*(Optional — include only if applicable)*  
-- Enter key to add tasks (if implemented)
-
----
-
-## 5. Development Process
+## 4. Development Process
 - Designed the UI using Flutter widgets such as Scaffold, Column, and ListView  
 - Implemented task management using a List  
 - Used StatefulWidget to manage dynamic data  
@@ -37,7 +31,7 @@ This is a simple and efficient To-Do application built using Flutter. The app he
 
 ---
 
-## 6. What I Learned
+## 5. What I Learned
 - Difference between Stateful and Stateless widgets  
 - How setState works in updating UI  
 - Managing lists and user input in Flutter  
@@ -45,7 +39,7 @@ This is a simple and efficient To-Do application built using Flutter. The app he
 
 ---
 
-## 7. Future Improvements
+## 6. Future Improvements
 - Add local database (SQLite) to store tasks permanently  
 - Add task editing functionality  
 - Implement dark mode  
@@ -54,7 +48,7 @@ This is a simple and efficient To-Do application built using Flutter. The app he
 
 ---
 
-## 8. How to Run the Project
+## 7. How to Run the Project
 
 1. Clone the repository:
    ```bash
